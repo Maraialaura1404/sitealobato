@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+}
+:root{
+
+}
+.cabecalho{
+    background-color: rgb(71, 3, 134);
+}
+.corpo{
+    background-color: rgba(0, 255, 255, 0.158);
+}
+.footer{
+    background-color: aquamarine;
+}
+
