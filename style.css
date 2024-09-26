@@ -31,3 +31,9 @@ border-radius: 5px;
 .boton:active{
     font-size: 20px;
 }
+.video-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+
+    
+}
