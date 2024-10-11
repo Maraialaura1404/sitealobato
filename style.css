@@ -61,3 +61,8 @@ height: 200pxd;
 .gallery img:hover {
     transform: scale(1.05);
 }
+.imagem_grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
